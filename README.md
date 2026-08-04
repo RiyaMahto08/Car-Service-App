@@ -6,7 +6,7 @@ A Flutter-based car service booking application with modern UI.
 - Car servicing
 - Booking confirmation
 - Modern Flutter UI
-- Cross-platform support
+- Cross-platforms support
 
 ## Tech Stack
 - Flutter
